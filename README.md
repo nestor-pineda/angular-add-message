@@ -1,4 +1,10 @@
-# ServiceListMessages
+# Message list creator
+
+![Placeholder Image](presentatio-video.gif)
+
+ I've created this small application in which, when entering a message, it is transferred to the list with the rest of the messages.
+
+I have created two components and connected them using a service.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
