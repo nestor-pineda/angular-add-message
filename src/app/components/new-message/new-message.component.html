@@ -1,0 +1,8 @@
+<div class="new-messages">
+  <h3>Add messages</h3>
+
+  <form novalidate (ngSubmit)="onSubmit()" [formGroup]="messageForm">
+    <input type="text" formControlName="message" placeholder="Inert message" />
+    <button class="button" type="submit">Crear</button>
+  </form>
+</div>
